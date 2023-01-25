@@ -1,2 +1,2 @@
 # Password_Generator
-A python script for generating password.
+A python script for generating password
